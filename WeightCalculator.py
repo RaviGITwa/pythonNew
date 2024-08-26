@@ -10,4 +10,5 @@ elif unit == 'P':
     weight = weight/2.205
     print(f'Your weight in Kilogram is {weight}')
 else:
-    print('Invalid weight or unit')
+    print('Invalid weight')
+    print('Invalid unit')
