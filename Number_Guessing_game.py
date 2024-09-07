@@ -30,5 +30,7 @@ while is_running:
             print(f"Your Answer is correct {answer}")
             print(f"Number of guesses you took {guesses}")
             is_running = False
+            
 else:
     print("Invalid Input")
+    
